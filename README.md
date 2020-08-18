@@ -19,3 +19,7 @@
 `@tailwind components;`
 
 `@tailwind utilities;`
+
+## 6. Run below code in terminal
+
+`npm run build-css`
